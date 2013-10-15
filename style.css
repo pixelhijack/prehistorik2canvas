@@ -1,0 +1,18 @@
+#pre2canvas{
+	width:400px;
+	height:304px;
+}
+#wrapper{	
+	background-color: white;
+	margin: 20px 0 0 200px;	
+}
+#msg{
+	padding:10px 0 10px 0;
+    height:2em;
+    display:block;
+    overflow:hidden;
+    font-weight:bold;
+    font-family:Courier;
+    font-size:12px;
+    color:hsla(120,80%,40%,1);
+}
