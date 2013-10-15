@@ -131,7 +131,7 @@ var inputKeys = (function() {
     };
 })();
 
-// http://jsfiddle.net/hhanuman/z4rpU/11/
+
 ////////////////////////
 //    statics
 ////////////////////////
